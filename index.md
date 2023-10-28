@@ -1,3 +1,3 @@
-[[Hallo.md]]
-[[Test_1.md]]
-[[text.md]]
+[[Hallo]]
+[[Test_1]]
+[[text]]
